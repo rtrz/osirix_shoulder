@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/osirixplugins/!svn/ver/1/Create%20ROIs/OsiriX%20Headers
+END
+ROI.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/osirixplugins/!svn/ver/1/Create%20ROIs/OsiriX%20Headers/ROI.h
+END
+Schedulable.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/osirixplugins/!svn/ver/1/Create%20ROIs/OsiriX%20Headers/Schedulable.h
+END
+dicomFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/osirixplugins/!svn/ver/1/Create%20ROIs/OsiriX%20Headers/dicomFile.h
+END
+DCMView.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/osirixplugins/!svn/ver/1/Create%20ROIs/OsiriX%20Headers/DCMView.h
+END
+Scheduler.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/osirixplugins/!svn/ver/1/Create%20ROIs/OsiriX%20Headers/Scheduler.h
+END
+MyPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/osirixplugins/!svn/ver/1/Create%20ROIs/OsiriX%20Headers/MyPoint.h
+END
+DCMPix.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/osirixplugins/!svn/ver/1/Create%20ROIs/OsiriX%20Headers/DCMPix.h
+END
+PluginFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/osirixplugins/!svn/ver/1/Create%20ROIs/OsiriX%20Headers/PluginFilter.h
+END
+ViewerController.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/osirixplugins/!svn/ver/1/Create%20ROIs/OsiriX%20Headers/ViewerController.h
+END
+OSIWindowController.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/osirixplugins/!svn/ver/1/Create%20ROIs/OsiriX%20Headers/OSIWindowController.h
+END
+StaticScheduler.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/osirixplugins/!svn/ver/1/Create%20ROIs/OsiriX%20Headers/StaticScheduler.h
+END

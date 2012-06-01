@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/osirixplugins/!svn/ver/26/Create%20ROIs
+END
+version.plist
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/osirixplugins/!svn/ver/1/Create%20ROIs/version.plist
+END
+CreateROI_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/osirixplugins/!svn/ver/1/Create%20ROIs/CreateROI_Prefix.pch
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/osirixplugins/!svn/ver/1/Create%20ROIs/Info.plist
+END
+CreateROIFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/osirixplugins/!svn/ver/1/Create%20ROIs/CreateROIFilter.h
+END
+CreateROIFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/osirixplugins/!svn/ver/1/Create%20ROIs/CreateROIFilter.m
+END
