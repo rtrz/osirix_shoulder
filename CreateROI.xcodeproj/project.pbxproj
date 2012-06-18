@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		41F73F431579421B00DDDF20 /* StepsWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 41F73F421579421B00DDDF20 /* StepsWindow.xib */; };
+		41F768A115800DBC0017F1E4 /* BrowserController.h in Headers */ = {isa = PBXBuildFile; fileRef = 41F768A015800DBC0017F1E4 /* BrowserController.h */; };
 		8D5B49B0048680CD000E48DA /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C167DFE841241C02AAC07 /* InfoPlist.strings */; };
 		8D5B49B4048680CD000E48DA /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7ADFEA557BF11CA2CBB /* Cocoa.framework */; };
 		AB94F88106820C3100733F34 /* CreateROIFilter.m in Sources */ = {isa = PBXBuildFile; fileRef = AB94F87F06820C3100733F34 /* CreateROIFilter.m */; };
@@ -29,6 +30,7 @@
 		1058C7ADFEA557BF11CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
 		41F73F401579410900DDDF20 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
 		41F73F421579421B00DDDF20 /* StepsWindow.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = StepsWindow.xib; sourceTree = "<group>"; };
+		41F768A015800DBC0017F1E4 /* BrowserController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BrowserController.h; sourceTree = "<group>"; };
 		8D5B49B7048680CD000E48DA /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AB94F87F06820C3100733F34 /* CreateROIFilter.m */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.objc; path = CreateROIFilter.m; sourceTree = "<group>"; };
 		AB94F88006820C3100733F34 /* CreateROIFilter.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; path = CreateROIFilter.h; sourceTree = "<group>"; };
@@ -148,6 +150,7 @@
 				ABB7633C067FB2A8000912C1 /* MyPoint.h */,
 				ABB7633E067FB2A8000912C1 /* ROI.h */,
 				ABB7633F067FB2A8000912C1 /* ViewerController.h */,
+				41F768A015800DBC0017F1E4 /* BrowserController.h */,
 			);
 			path = "OsiriX Headers";
 			sourceTree = "<group>";
@@ -167,6 +170,7 @@
 				ABB76345067FB2A8000912C1 /* ROI.h in Headers */,
 				ABB76346067FB2A8000912C1 /* ViewerController.h in Headers */,
 				AB94F88206820C3100733F34 /* CreateROIFilter.h in Headers */,
+				41F768A115800DBC0017F1E4 /* BrowserController.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

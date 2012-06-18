@@ -26,9 +26,12 @@
 
 // Fundamental methods
 - (long) filterImage:(NSString*) menuName;
+- (void) initPlugin;
 
 // IB Actions
 - (IBAction)performCalculation:(id)sender;
 
 // Other methods
+- (void) _initToolbarItems;
+
 @end

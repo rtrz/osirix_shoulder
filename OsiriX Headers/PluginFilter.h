@@ -22,6 +22,11 @@
 #import "MyPoint.h"				// An object representing a point
 #import "ROI.h"					// An object representing a ROI
 
+#import "BrowserController.h"   // An object representing the object browser
+#import <Foundation/NSObjCRuntime.h>
+#import <objc/runtime.h>
+
+
 
 /** \brief Base class for plugins */
 @interface PluginFilter : NSObject
